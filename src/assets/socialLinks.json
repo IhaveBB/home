@@ -18,10 +18,10 @@
     "url": "https://wpa.qq.com/msgrd?v=3&uin=3212186964&site=qq&menu=yes"
   },
   {
-    name: "微信",
-    icon: "/images/icon/wechat.png",
-    tip: "来聊微~",
-    url: "https://www.nicebao.com/social/wechat_all.png"
+    "name": "微信",
+    "icon": "/images/icon/wechat.png",
+    "tip": "来聊微~",
+    "url": "https://www.nicebao.com/social/wechat_all.png"
   },
   {
     "name": "Email",
