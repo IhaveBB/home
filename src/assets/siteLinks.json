@@ -2,32 +2,27 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://www.33mc.cn/"
+    "link": "https://blog.nicebao.com/"
   },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.33mc.cn/"
+  { 
+    "icon": "Compass",
+    "name": "哔哔胶囊",
+    "link": "https://m.nicebao.com/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.33mc.cn/"
+    "link": "https://music.nicebao.com/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://star.33mc.cn/"
-  },
-  {
-    "icon": "Book",
-    "name": "笔记",
-    "link": "https://note.33mc.cn/"
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.nicebao.com/"
   },
   {
     "icon": "Fire",
     "name": "工具集",
-    "link": "https://tools.33mc.cn"
+    "link": "https://tools.nicebao.com"
   },
   {
     "icon": "LaptopCode",
