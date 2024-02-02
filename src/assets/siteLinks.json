@@ -15,18 +15,8 @@
     "link": "https://music.nicebao.com/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.nicebao.com/"
-  },
-  {
     "icon": "Fire",
     "name": "工具集",
     "link": "https://tools.nicebao.com"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.nicebao.com/"
-  }
 ]
