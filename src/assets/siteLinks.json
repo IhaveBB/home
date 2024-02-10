@@ -4,19 +4,19 @@
     "name": "博客",
     "link": "https://blog.nicebao.com/"
   },
-  { 
+  {
     "icon": "Compass",
     "name": "哔哔胶囊",
-    "link": "https://m.nicebao.com/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.nicebao.com/"
+    "link": "https://wb.bbidea.com/"
   },
   {
     "icon": "Fire",
     "name": "工具集",
-    "link": "https://tools.nicebao.com"
+    "link": "https://tools.bbidea.com"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "照片墙",
+    "link": "https://photo.bbidea.com"
   }
 ]
